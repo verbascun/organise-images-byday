@@ -1,4 +1,5 @@
-#Organise images into folders
+# Organise images into folders
+
 Organizes images into date folder based on day
 ---
 It does not take any arguments, runs or files in current directory.
